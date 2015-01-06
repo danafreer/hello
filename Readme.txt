@@ -1,1 +1,1 @@
-This is a test for Git, Dana Freer BAD
+This is a test for Git, Dana Freer GOOD
