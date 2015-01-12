@@ -1,10 +1,12 @@
+// hello.go
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/danafreer/stringutil"
+)
 
 func main() {
-	fmt.Printf("hello, world\n")
+	fmt.Println("Hi, Dana")
+	fmt.Printf(stringutil.Reverse("hello, world xxx\n"))
 }
-
-// yes this is this a comment !
-
